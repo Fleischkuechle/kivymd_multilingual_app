@@ -11,6 +11,10 @@ then start the app by running
 multilingual_kivyMD_app.py
 
 you should see something like this:
+
+
+
+
 ![alt text](image-3.png)
 
 
